@@ -1,0 +1,44 @@
+Learned some concepts and tools to use in Git.
+Learned about the basic "commit, push, pull" to use it effectively.
+The Prefect Commit :
+            Add the right changes.
+            Compose a good commit message.
+ 
+Branching strategies
+Pull requests
+Merge conflicts
+Git:
+   Free and open source version control system\
+
+Version Control:
+          The management of changes to documents, computer programs, large wed sites, and other collections of information.
+
+Terms:
+  Repository -> Project, or the folder/place where your project is kept.
+  GitHub -> A wedsite to host your repositories online.
+  Directory -> Folder.
+  cd -> Change Directory.
+
+Git Commands:
+clone -> Bring a repository that is hosted somewhere like GitHUb into a folder on your local machine.
+add -> Track your files and changer in Git.
+commit -> Save your files in Git.
+push -> Upload Git commits to a remote repo, like Github.
+pull -> Download changes from remote repo to your local machine.
+  
+Github Workflow:
+-> Write code.
+-> Commit Changes.
+-> Make a Pull Request.
+
+Local Git Workflow (or) In Terminal:
+-> Write code.
+-> Stage Changes. (git add)
+-> Commit Changes. (ait commit)
+-> Push Changes. (git push)
+-> Make a Pull Request.
+        
+Git Branching:
+-> Master Branch
+-> Feature Branch
+-> Hot FIx Branch
